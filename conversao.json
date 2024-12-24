@@ -1,0 +1,7 @@
+{
+  "moeda_base": "CHF",
+  "moeda_destino": "USD",
+  "quantidade": 1000.0,
+  "taxa_cambio": 1.1129,
+  "valor_convertido": 1112.9
+}
